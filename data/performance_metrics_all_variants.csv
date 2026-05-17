@@ -1,0 +1,7 @@
+,Sharpe Ratio,Win Ratio,CAGR,Max Drawdown,Calmar Ratio,Total Return,Days In %
+Buy & Hold,0.514,0.525,0.1,-0.245,0.407,0.328,100.0
+Random Model,-0.123,0.519,-0.003,-0.183,-0.019,-0.01,52.2
+RF Static,-0.685,0.481,-0.091,-0.375,-0.244,-0.249,71.2
+RF Walk-Forward,-0.731,0.472,-0.097,-0.345,-0.28,-0.262,64.7
+RF + VIX Filter,1.354,0.573,0.114,-0.107,1.064,0.379,34.8
+RF WF + VIX Filter,1.054,0.557,0.09,-0.11,0.822,0.295,30.3
